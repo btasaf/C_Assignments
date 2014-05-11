@@ -1,0 +1,26 @@
+﻿Build started 22/01/2014 16:30:06.
+     1>Project "C:\Users\asaf\Documents\Visual Studio 2010\Projects\yearB_semesterA_matala2\yearB_semesterA_matala2\yearB_semesterA_matala2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\yearB_semesterA_matala2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt fraction.cpp
+         fraction.cpp
+     1>c:\users\asaf\documents\visual studio 2010\projects\yearb_semestera_matala2\yearb_semestera_matala2\fraction.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\asaf\Documents\Visual Studio 2010\Projects\yearB_semesterA_matala2\Debug\yearB_semesterA_matala2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\yearB_semesterA_matala2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\asaf\Documents\Visual Studio 2010\Projects\yearB_semesterA_matala2\Debug\yearB_semesterA_matala2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\asaf\Documents\Visual Studio 2010\Projects\yearB_semesterA_matala2\Debug\yearB_semesterA_matala2.lib" /MACHINE:X86 Debug\fraction.obj
+         Debug\main.obj
+         Debug\MyString.obj
+         Debug\student.obj
+         Debug\Tokenize.obj
+         LINK : C:\Users\asaf\Documents\Visual Studio 2010\Projects\yearB_semesterA_matala2\Debug\yearB_semesterA_matala2.exe not found or not built by the last incremental link; performing full link
+         yearB_semesterA_matala2.vcxproj -> C:\Users\asaf\Documents\Visual Studio 2010\Projects\yearB_semesterA_matala2\Debug\yearB_semesterA_matala2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\asaf\Documents\Visual Studio 2010\Projects\yearB_semesterA_matala2\Debug\yearB_semesterA_matala2.exe;#1" /manifest Debug\yearB_semesterA_matala2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\yearB_semesterA_matala2.unsuccessfulbuild".
+         Touching "Debug\yearB_semesterA_matala2.lastbuildstate".
+     1>Done Building Project "C:\Users\asaf\Documents\Visual Studio 2010\Projects\yearB_semesterA_matala2\yearB_semesterA_matala2\yearB_semesterA_matala2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.66
